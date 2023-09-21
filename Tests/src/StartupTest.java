@@ -8,5 +8,4 @@ public class StartupTest {
         startup.main();
     }
 
-
 }
