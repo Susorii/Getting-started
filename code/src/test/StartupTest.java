@@ -1,3 +1,6 @@
+package test;
+
+import main.Startup;
 import org.junit.jupiter.api.Test;
 
 public class StartupTest {
